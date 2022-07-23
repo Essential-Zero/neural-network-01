@@ -24,6 +24,6 @@ It takes a point as an input and finds the closest 'K' points in the dataset.
 
 #### Sources
 
-[Neural-network implementation](https://www.youtube.com/user/gerardonfiya)
-[Data sets](https://deepai.org/dataset/mnist)
-[Debug](https://stackoverflow.com/)
+- [Neural-network implementation](https://www.youtube.com/user/gerardonfiya)
+- [Data sets](https://deepai.org/dataset/mnist)
+- [Debug](https://stackoverflow.com/)
